@@ -44,3 +44,4 @@ swag-client==0.4.7
 vine==1.3.0
 email-validator==1.1.1
 redis==3.5.3
+xmlsec==1.3.13
